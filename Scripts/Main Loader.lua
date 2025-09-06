@@ -15,5 +15,9 @@ end
 if p == 118915549367482 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Scripts/Dont%20Wake%20the%20Brainrots.lua'))()
 end
+-- Ninja Legends
+if p == 3956818381 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Scripts/Ninja%20Legends.lua'))()
+end
 
 
