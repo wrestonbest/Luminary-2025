@@ -11,3 +11,9 @@ end
 if p == 88920112778598 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Scripts/Pure%20Soccer.lua'))()
 end
+-- Dont Wake the Brainrots
+if p == 118915549367482 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Scripts/Dont%20Wake%20the%20Brainrots.lua'))()
+end
+
+
