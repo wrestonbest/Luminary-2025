@@ -20,4 +20,7 @@ if p == 3956818381 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Scripts/Ninja%20Legends.lua'))()
 end
 
-
+-- Luminary X Rise Evade
+if p == 9872472334 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShadowBey01/SHWX-Team-Rise-Scripts/refs/heads/main/Games/RiseEvade"))()
+end
