@@ -26,6 +26,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ShadowBey01/SHWX-Team
 end
 
 -- Break your Bones
-if p == 7848646653 then
+if p == 123821081589134 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Scripts/Break%20Your%20Bones.lua"))()
 end
