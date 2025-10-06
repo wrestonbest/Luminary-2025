@@ -32,15 +32,15 @@ end
 
 -- Cook Brainrot
 if p == 126224010852243 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Scripts/Break%20Your%20Bones.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Scripts/Cook%20a%20Brainrot.lua"))()
 end
 
 -- Make a Army
 if p == 137969408767471 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Scripts/Break%20Your%20Bones.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Scripts/Make%20a%20Army.lua"))()
 end
 
 -- Break in (Story)
 if p == 4620170611 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Scripts/Break%20Your%20Bones.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Scripts/Break%20in%20Story.lua"))()
 end
