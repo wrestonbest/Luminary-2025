@@ -47,5 +47,10 @@ end
 
 -- Be a Beggar
 if p == 119574637420814 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Games/Break%20in%20Story.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Games/Be%20a%20Beggar.lua"))()
+end
+
+-- Cut Tress
+if p == 135880624242201 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Games/Cut%20Tress.lua"))()
 end
