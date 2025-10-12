@@ -79,3 +79,8 @@ end
 if p == 127742093697776 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Games/Plants%20vs%20Brainrots.lua"))()
 end
+
+-- Arsenal
+if p == 286090429 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Games/Arsenal.lua"))()
+end
