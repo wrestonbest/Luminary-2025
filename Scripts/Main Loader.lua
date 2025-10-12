@@ -64,3 +64,8 @@ end
 if p == 5253186791 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Games/Tower%20of%20Hell.lua"))()
 end
+
+-- Infectious Smile
+if p == 5985232436 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Games/Infectious%20Smile.lua"))()
+end
