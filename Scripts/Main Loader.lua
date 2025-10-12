@@ -69,3 +69,8 @@ end
 if p == 5985232436 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Games/Infectious%20Smile.lua"))()
 end
+
+-- Steal a Turkish
+if p == 137601027423630 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Games/Steal%20a%20Turkish.lua"))()
+end
