@@ -7,8 +7,7 @@ end
 
 -- eat the world
 if p == 16480898254 then
-loads
-  tring(game:HttpGet('https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Games/Eat%20the%20World.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Games/Eat%20the%20World.lua'))()
 end
 -- pure soccer
 if p == 88920112778598 then
