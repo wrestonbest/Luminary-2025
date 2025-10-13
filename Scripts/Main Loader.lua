@@ -89,3 +89,8 @@ end
 if p == 12355337193 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Games/Murders%20Vs%20Sherrifs.lua"))()
 end
+
+-- Collect Your Body
+if p == 9731376817 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Games/Collect%20Your%20Body.lua"))()
+end
