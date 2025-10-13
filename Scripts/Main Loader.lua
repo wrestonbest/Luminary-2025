@@ -84,3 +84,8 @@ end
 if p == 286090429 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Games/Arsenal.lua"))()
 end
+
+-- Murders vs Sherrifs Duels
+if p == 12355337193 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Games/Murders%20Vs%20Sherrifs.lua"))()
+end
