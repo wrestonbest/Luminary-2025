@@ -1,4 +1,8 @@
 local p = game.PlaceId
+-- 99 night in the forest
+if p == 79546208627805 or 126509999114328 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Games/99%20Night%20in%20the%20Forest.lua'))()
+end
 
 -- build a plane
 if p == 137925884276740 then
